@@ -8,5 +8,4 @@ Utiliza Glade para desenvolver interfaces gráficas para aplicações desktop Gt
 Utiliza o construtor de interface gráfica Glade para desenvolvimento ágil.
 https://python-gtk-3-tutorial.readthedocs.io/pt_BR/latest/builder.html
 
-Desenvolvido em python gtk 3
-https://www.gtk.org/docs/language-bindings/python
+Desenvolvido em python gtk+3
