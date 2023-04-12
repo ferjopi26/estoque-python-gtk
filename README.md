@@ -1,5 +1,5 @@
 estoque-python-gtk
---Gestão de estoque em python gtk e database sqlite
+Gestão de estoque em python gtk e database sqlite
 
 Janela principal
 main_window.py
