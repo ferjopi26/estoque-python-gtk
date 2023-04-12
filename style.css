@@ -1,0 +1,75 @@
+treeview.view header button {
+	color: #000000;
+	background: #F5F5F5;
+	font-weight: bold;
+}
+
+treeview.view{
+	font-size: 15px;
+	/*font-weight: bold;*/
+	/*font-family: Arial;*/
+	/*background-color: #E4E4E4;*/
+	border-color: #A4A4A4;
+	border: solid;
+}
+
+label{
+	/*font-weight: bold;*/
+}
+textview.view{
+	border-radius: 10px;
+}
+
+button{
+	border-radius: 0%;
+}
+
+.danger{
+	/*background-color: #FF0000;*/
+	background-image: none;
+	background-color:#FF0000; 
+	color: #FFFFFF;
+	/*border-radius:5px;*/
+	border:none;
+	/*border-bottom:1px solid #008B8B;*/
+	box-shadow: none;
+	font-size: 15px;
+	/*font-weight: bold;
+	font-family: Arial;*/
+}
+
+.primary{
+	background-image: none;
+	background-color:#0068FF;
+	color: #FFFFFF;
+	/*border-radius:5px;*/
+	/*border:none;*/
+	border-bottom:1px solid #008B8B;
+	box-shadow: none;
+	font-size: 15px;
+	/*font-weight: bold;
+	font-family: Arial;*/
+}
+
+.secondary{
+	background-image: none;
+	background-color:#BFBFBF;
+	color: #000000;
+	/*border-radius:5px;*/
+	border:none;
+	/*border-bottom:1px solid #008B8B;*/
+	box-shadow: none;
+	font-size: 15px;
+	/*font-weight: bold;*/
+	/*font-family: Arial;*/
+}
+
+.info{
+	background-image: none;
+	background-color: #0dcaf0;
+	color: #000000;
+	/*border-radius:5px;*/
+	border:none;
+	box-shadow: none;
+	font-size: 15px;
+}
